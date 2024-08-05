@@ -49,13 +49,13 @@ Google employees who currently work in BI will guide you through this course by 
 Learners who complete the three courses in this certificate program will have the skills needed to apply for business intelligence jobs. This certificate program assumes prior knowledge of foundational analytical principles, skills, and tools covered in the Google Data Analytics Certificate.  
 
 By the end of this course, you will:
--Make key distinctions between business intelligence (BI) and data analysis
--Explore how data is used in business processes and decision-making 
--Describe ways that BI professionals impact their organizations
--Identify the uses and benefits of BI tools, including data models, pipelines, data visualizations, and dashboards
--Acquire, manipulate, and integrate data using key BI concepts
--Select and define metrics that are relevant to project goals and stakeholder questions
--Develop and execute a BI project by working with stakeholders to determine project requirements, execute tasks, and deliver insights that guide decision-making
+- Make key distinctions between business intelligence (BI) and data analysis
+- Explore how data is used in business processes and decision-making 
+- Describe ways that BI professionals impact their organizations
+- Identify the uses and benefits of BI tools, including data models, pipelines, data visualizations, and dashboards
+- Acquire, manipulate, and integrate data using key BI concepts
+- Select and define metrics that are relevant to project goals and stakeholder questions
+- Develop and execute a BI project by working with stakeholders to determine project requirements, execute tasks, and deliver insights that guide decision-making
 
 </h6>
 
@@ -72,13 +72,13 @@ Google employees who currently work in BI will guide you through this course by 
 Learners who complete the three courses in this certificate program will have the skills needed to apply for business intelligence jobs. This certificate program assumes prior knowledge of foundational analytical principles, skills, and tools covered in the Google Data Analytics Certificate.   
 
 By the end of this course, you will:
--Determine which data models are appropriate for different business requirements
--Describe the difference between creating and interacting with a data model
--Create data models to address different types of questions 
--Explain the parts of the extract, transform, load (ETL) process and tools used in ETL
--Understand extraction processes and tools for different data storage systems
--Design an ETL process that meets organizational and stakeholder needs 
--Design data pipelines to automate BI processes
+- Determine which data models are appropriate for different business requirements
+- Describe the difference between creating and interacting with a data model
+- Create data models to address different types of questions 
+- Explain the parts of the extract, transform, load (ETL) process and tools used in ETL
+- Understand extraction processes and tools for different data storage systems
+- Design an ETL process that meets organizational and stakeholder needs 
+- Design data pipelines to automate BI processes
 </h6>
 
 </details>
@@ -94,14 +94,14 @@ Google employees who currently work in BI will guide you through this course by 
 Learners who complete the three courses in this certificate program will have the skills needed to apply for business intelligence jobs. This certificate program assumes prior knowledge of foundational analytical principles, skills, and tools covered in the Google Data Analytics Certificate.  
 
 By the end of this course, you will:
--Explain how BI visualizations answer business questions
--Identify complications that may arise during the creation of BI visualizations
--Produce charts that represent BI data monitored over time
--Use dashboard and reporting tools
--Build dashboards using best practices to meet stakeholder needs
--Iterate on a dashboard to meet changing project requirements
--Design BI presentations to share insights with stakeholders
--Create or update a resume and prepare for BI interviews
+- Explain how BI visualizations answer business questions
+- Identify complications that may arise during the creation of BI visualizations
+- Produce charts that represent BI data monitored over time
+- Use dashboard and reporting tools
+- Build dashboards using best practices to meet stakeholder needs
+- Iterate on a dashboard to meet changing project requirements
+- Design BI presentations to share insights with stakeholders
+- Create or update a resume and prepare for BI interviews
 </h6>
 </details>
 
