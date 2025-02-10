@@ -1,6 +1,5 @@
 **File Summary:**
-- Test your knowledge:  (Practice Quiz: 100%)
-- Module 6 challenge (Graded Quiz: 100%)
+- N/A
 
 ## Module 6
 **Put your Google Business Intelligence Certificate to work**
