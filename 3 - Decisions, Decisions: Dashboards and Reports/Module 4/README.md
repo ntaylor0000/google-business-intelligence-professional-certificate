@@ -1,5 +1,4 @@
 **File Summary:**
-- Test your knowledge:  (Practice Quiz: 100%)
 - Module 4 challenge (Graded Quiz: 100%)
 
 ## Module 4
