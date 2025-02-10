@@ -1,6 +1,5 @@
 **File Summary:**
-- Test your knowledge:  (Practice Quiz: 100%)
-- Module 5 challenge (Graded Quiz: 100%)
+- N/A
 
 ## Module 5
 **Course 3 end-of-course project**
