@@ -1,5 +1,6 @@
 **File Summary:**
-- Test your knowledge:  (Practice Quiz: 100%)
+- Test your knowledge: Communicate clearly with visuals (Practice Quiz: 100%)
+- Test your knowledge: Considerations when laying out a dashboard (Practice Quiz: 100%)
 - Module 2 challenge (Graded Quiz: 100%)
 
 ## Module 2
