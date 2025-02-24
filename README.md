@@ -107,3 +107,5 @@ By the end of this course, you will:
 
 
 ## Certificate:
+
+![cert](google-business-intelligence-professional-certificate.png)
